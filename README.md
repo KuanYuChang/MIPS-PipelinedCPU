@@ -1,4 +1,4 @@
-# MIPS-PipeCPU
+# MIPS Pipelined CPU
 
 ![Project Structure](Picture1.png)
 
